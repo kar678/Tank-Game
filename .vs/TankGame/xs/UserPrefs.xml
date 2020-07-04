@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{5D3552FD-BC28-B6F8-0ED6-40F7075E067C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tank/TankController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Tank/TankController.cs" Line="156" Column="18" />
+      <File FileName="Assets/Scripts/Game/UI/MainMenu.cs" />
+      <File FileName="Assets/Scripts/Game/UI/GraphicsSettings.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game/Save Data/PlayerData.cs" />
+      <File FileName="Assets/Scripts/Game/Managers/PlayerManager.cs" />
+      <File FileName="Assets/Scripts/Game/Systems/SaveSystem.cs" />
+      <File FileName="Assets/Scripts/Game/Managers/GameManager.cs" />
+      <File FileName="Assets/Scripts/Game/UI/ButtonText.cs" />
+      <File FileName="Assets/Scripts/Game/UI/TabButton.cs" />
+      <File FileName="Assets/Scripts/Game/UI/TabGroup.cs" />
+      <File FileName="Assets/Scripts/Game/UI/GarageUIController.cs" />
+      <File FileName="Assets/Scripts/Game/Managers/LevelManager.cs" Line="39" Column="46" />
+      <File FileName="Assets/Scripts/Math/ExtraFunctions.cs" />
+      <File FileName="Assets/Scripts/Game/UI/HudController.cs" Line="84" Column="15" />
+      <File FileName="Assets/Scripts/Game/Camera/DragMouseOrbit.cs" Line="73" Column="81" />
+      <File FileName="Assets/Scripts/Game/Managers/Missions/TutorialLevelManager.cs" Line="24" Column="10" />
+      <File FileName="Assets/Scripts/Game/UI/UIElement.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TankGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Game" expanded="True">
+                  <Node name="Camera" expanded="True" />
+                  <Node name="Managers" expanded="True">
+                    <Node name="Input" expanded="True" />
+                    <Node name="Missions" expanded="True" />
+                  </Node>
+                  <Node name="Save Data" expanded="True" />
+                  <Node name="Systems" expanded="True" />
+                  <Node name="UI" expanded="True" />
+                </Node>
+                <Node name="Math" expanded="True" />
+                <Node name="Tank" expanded="True">
+                  <Node name="TankController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3f1801ba-1070-4497-8a16-42d9124dfc04" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
